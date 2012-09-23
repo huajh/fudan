@@ -120,6 +120,7 @@ int main()
 	}		
 	// 
 	tree->print_tree();
+	delete tree;
 
 	return 0;
 }
